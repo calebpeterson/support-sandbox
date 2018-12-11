@@ -1,4 +1,9 @@
 {
   "id": "1",
-  "name": "A Bucket"
+  "name": "A Bucket",
+  "items": [
+    "Item 1",
+    "Item 2",
+    "Item 3"
+  ]
 }
